@@ -1,0 +1,21 @@
+.cart-item-row {
+  padding: 8px 3%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+  height: 120px;
+}
+
+.cart-item-row img {
+  max-width: 75px;
+}
+
+.cart-item-row p {
+  width: 20%;
+}
+
+.cart-total {
+  margin-top: 20px;
+  margin-left: 69%;
+}
